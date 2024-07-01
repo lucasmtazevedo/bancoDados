@@ -1,0 +1,1 @@
+CREATE USER "Sommelier" IDENTIFIED BY "vinhostotal"
